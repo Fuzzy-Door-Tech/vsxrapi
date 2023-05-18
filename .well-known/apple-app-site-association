@@ -7,6 +7,12 @@
         "paths": [
           "*"
         ]
+      },
+	  {
+        "appID": "XZ39656THL.com.fuzzydoortech.scoutpro",
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
