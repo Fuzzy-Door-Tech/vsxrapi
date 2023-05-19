@@ -5,13 +5,13 @@
       {
         "appID": "XZ39656THL.com.fuzzydoortech.scout",
         "paths": [
-          "*"
+          "*/scout/*"
         ]
       },
 	  {
         "appID": "XZ39656THL.com.fuzzydoortech.scoutpro",
         "paths": [
-          "*"
+          "*/scoutpro/*"
         ]
       }
     ]
