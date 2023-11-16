@@ -3,13 +3,13 @@
     "apps": [],
     "details": [
       {
-        "appID": "XZ39656THL.com.fuzzydoortech.scout",
+        "appID": "XZ39656THL.com.fuzzydoortech.scoutlite",
         "paths": [
           "*/scout/*"
         ]
       },
 	  {
-        "appID": "XZ39656THL.com.fuzzydoortech.scoutpro",
+        "appID": "XZ39656THL.com.fuzzydoortech.scoutstudio",
         "paths": [
           "*/scoutpro/*"
         ]
